@@ -1,1 +1,6 @@
 # Face_Recognition
+Task Description :
+
+1. If the Face Recognise then sends an email to us and WhatsApp to your friend...
+
+2. If the Face Recognise then launch, EC2 instance, EBS volume and attach it to the instance...
